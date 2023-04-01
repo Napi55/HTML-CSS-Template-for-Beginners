@@ -7,7 +7,7 @@ Welcome to our HTML CSS template for beginners! This template is designed to hel
 To get started with this template, follow the instructions below:
 
 Clone the repository to your local machine.
-Open the index.html file in your preferred code editor.
+Open the logip.html file in your preferred code editor.
 Modify the HTML and CSS code as per your requirements.
 Save the changes and view the result in your web browser.
 Features
