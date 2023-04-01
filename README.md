@@ -4,7 +4,7 @@ Welcome to our HTML CSS template for beginners! This template is designed to hel
 
  <img src="https://user-images.githubusercontent.com/88117366/229286589-d75bab58-7dfd-4616-90b3-beb05dabbddb.png" width="29%" height=400 align="left">
  <img src="https://user-images.githubusercontent.com/88117366/229286489-7ccfbe69-3137-4c3b-bf3a-cd77c2978074.png" width="29%" height=400 align="right">
- <img src="https://user-images.githubusercontent.com/88117366/229286589-d75bab58-7dfd-4616-90b3-beb05dabbddb.png" width="29%" height=400 align="center">
+ <img src="https://user-images.githubusercontent.com/88117366/229286597-4938b95c-48f3-447a-9784-096de3d00e3f.png" width="29%" height=400 align="center">
 
 
 ## Getting Started
