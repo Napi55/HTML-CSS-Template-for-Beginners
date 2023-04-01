@@ -1,6 +1,8 @@
 # HTML CSS Template for Beginners
 Welcome to our HTML CSS template for beginners! This template is designed to help beginners learn and practice HTML and CSS concepts such as responsive design, flexbox, grid, font properties, background, global variables and more.
 
+![Uploading 2023-04-01.png…]()
+
 ## Getting Started
 To get started with this template, follow the instructions below:
 
