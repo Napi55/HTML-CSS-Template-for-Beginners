@@ -2,9 +2,9 @@
 Welcome to our HTML CSS template for beginners! This template is designed to help beginners learn and practice HTML and CSS concepts such as responsive design, flexbox, grid, font properties, background, global variables and more.
 
 
- <img src="https://user-images.githubusercontent.com/88117366/229286589-d75bab58-7dfd-4616-90b3-beb05dabbddb.png" width="29%" height=400 align="left">
- <img src="https://user-images.githubusercontent.com/88117366/229286489-7ccfbe69-3137-4c3b-bf3a-cd77c2978074.png" width="29%" height=400 align="right">
- <img src="https://user-images.githubusercontent.com/88117366/229286597-4938b95c-48f3-447a-9784-096de3d00e3f.png" width="29%" height=400 align="center">
+ <img src="https://user-images.githubusercontent.com/88117366/229286589-d75bab58-7dfd-4616-90b3-beb05dabbddb.png" width="200" height=400>
+ <img src="https://user-images.githubusercontent.com/88117366/229286489-7ccfbe69-3137-4c3b-bf3a-cd77c2978074.png" width="400" height=400>
+ <img src="https://user-images.githubusercontent.com/88117366/229286589-d75bab58-7dfd-4616-90b3-beb05dabbddb.png" width="400" height=400>
 
 
 ## Getting Started
@@ -40,3 +40,5 @@ If you find any issues or would like to contribute to this template, please feel
 
 ## License
 This template is licensed under the MIT License. Feel free to use, modify, and distribute this template as per your requirements.
+## Demo
+https://napi55.github.io/HTML-CSS-Template-for-Beginners/logip.html
