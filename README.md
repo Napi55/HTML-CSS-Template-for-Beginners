@@ -1,7 +1,9 @@
-HTML CSS Template for Beginners
+#HTML CSS Template for Beginners
 Welcome to our HTML CSS template for beginners! This template is designed to help beginners learn and practice HTML and CSS concepts such as responsive design, flexbox, grid, font properties, background, global variables and more.
 
-Getting Started
+
+
+##Getting Started
 To get started with this template, follow the instructions below:
 
 Clone the repository to your local machine.
@@ -11,26 +13,26 @@ Save the changes and view the result in your web browser.
 Features
 This template includes the following features:
 
-Responsive Design
+##Responsive Design
 The template uses responsive design to ensure that it looks great on all devices. This is achieved using media queries and flexbox.
 
-Flexbox
+##Flexbox
 Flexbox is used extensively throughout the template to create flexible layouts. The display: flex property is used to create flex containers, and the flex property is used to control the size and alignment of the flex items.
 
-Grid
+##Grid
 Grid is used to create complex layouts that require more precise control. The display: grid property is used to create grid containers, and the grid-template-rows, grid-template-columns, grid-gap, and other properties are used to control the size and placement of grid items.
 
-Font Properties
+##Font Properties
 The template includes several font properties, such as font-size, font-family, font-weight, line-height, and more. These properties can be used to customize the font styling of your web page.
 
-Background
+##Background
 The template includes several background properties, such as background-color, background-image, background-size, background-position, and more. These properties can be used to customize the background styling of your web page.
 
-Global Variables
+##Global Variables
 The template includes global variables that can be used to quickly and easily modify the styling of your web page. These variables are defined in the variables.css file and can be modified to suit your needs.
 
-Contributing
+##Contributing
 If you find any issues or would like to contribute to this template, please feel free to submit a pull request. We welcome contributions from the community and appreciate your help in making this template better for everyone.
 
-License
+##License
 This template is licensed under the MIT License. Feel free to use, modify, and distribute this template as per your requirements.
